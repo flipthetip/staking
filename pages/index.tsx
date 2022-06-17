@@ -181,7 +181,7 @@ const StakePage = () => {
                         margin: "0 .4rem 0 .8rem",
                         maxHeight: "2.4rem",
                       }}
-                      src="https://raw.githubusercontent.com/flipthetip/test-tsc/main/coin2_ccexpress%20(1).png"
+                      src="/images/web.png"
                     />
                     {availableB ? (
                       <b>{(availableB / 1).toFixed(2)}</b>
