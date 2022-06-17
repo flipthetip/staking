@@ -50,7 +50,7 @@ const StakePage = () => {
           padding: "0 1.6rem",
         }}
       >
-        <a href="https://www.theshadyclass.xyz/" target="_blank">
+        <a href="https://www.theshadyclass.xyz/">
           <img src="https://raw.githubusercontent.com/flipthetip/test-tsc/main/TAMER%20(21).png" 
           alt="TSC" width="300" height="300" /></a>
         <Heading>THE SHADY CLASS STAKING</Heading>
