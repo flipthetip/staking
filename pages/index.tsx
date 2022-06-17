@@ -106,7 +106,7 @@ const StakePage = () => {
                       sx={{
                         maxHeight: "2.4rem",
                       }}
-                      src="https://raw.githubusercontent.com/flipthetip/test-tsc/main/tase1%20(1).png"
+                      src="/images/tase1.png"
                     />
                     <Text>
                       TSC NFTs staked:&nbsp;
