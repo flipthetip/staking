@@ -50,14 +50,7 @@ const StakePage = () => {
           padding: "0 1.6rem",
         }}
       >
-        <a href="https://www.theshadyclass.xyz/">
-        <img
-                  sx={{
-                    maxHeight: "30.8rem",
-                  }}
-                  src="/images/crim.png"
-                  alt="TSC"
-                /></a>
+
         <Heading>THE SHADY CLASS STAKING</Heading>
         <Text>Stake, unstake, collect $CRIM tokens.</Text>
 

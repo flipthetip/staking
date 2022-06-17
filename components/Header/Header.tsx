@@ -40,13 +40,6 @@ const Header = ({ farmId, setFarmId }: Props) => {
                  
                 </Text>
 
-                <img
-                  sx={{
-                    maxHeight: "4.8rem",
-                  }}
-                  src="/images/arc.png"
-                  alt="TSC"
-                />
 
                 <Text as="h1" variant="headingSpecial" ml=".4rem">
                   
