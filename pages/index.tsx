@@ -102,12 +102,7 @@ const StakePage = () => {
                       justifyContent: "center",
                     }}
                   >
-                    <img
-                      sx={{
-                        maxHeight: "2.4rem",
-                      }}
-                      src="/images/tase1.png"
-                    />
+
                     <Text>
                       TSC NFTs staked:&nbsp;
                       {farmerAccount?.gemsStaked.toNumber()}
@@ -176,13 +171,7 @@ const StakePage = () => {
                     disabled={!Number(availableB)}
                   >
                     Claim{" "}
-                    <img
-                      sx={{
-                        margin: "0 .4rem 0 .8rem",
-                        maxHeight: "2.4rem",
-                      }}
-                      src="/images/web.png"
-                    />
+
                     {availableB ? (
                       <b>{(availableB / 1).toFixed(2)}</b>
                     ) : (
