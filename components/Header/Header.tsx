@@ -44,7 +44,7 @@ const Header = ({ farmId, setFarmId }: Props) => {
                   sx={{
                     maxHeight: "4.8rem",
                   }}
-                  src="https://raw.githubusercontent.com/flipthetip/test-tsc/main/ARC%201%20-%20THE%20DARKNESS%20(4).png"
+                  src="/images/arc.png"
                   alt="TSC"
                 />
 

@@ -51,8 +51,13 @@ const StakePage = () => {
         }}
       >
         <a href="https://www.theshadyclass.xyz/">
-          <img src="https://raw.githubusercontent.com/flipthetip/test-tsc/main/TAMER%20(21).png" 
-          alt="TSC" width="300" height="300" /></a>
+        <img
+                  sx={{
+                    maxHeight: "30.8rem",
+                  }}
+                  src="/images/crim.png"
+                  alt="TSC"
+                /></a>
         <Heading>THE SHADY CLASS STAKING</Heading>
         <Text>Stake, unstake, collect $CRIM tokens.</Text>
 
